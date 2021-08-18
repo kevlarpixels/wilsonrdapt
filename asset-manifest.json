@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/wilsonrdapt/static/css/main.a617e044.chunk.css",
-    "main.js": "/wilsonrdapt/static/js/main.4055595a.chunk.js",
-    "main.js.map": "/wilsonrdapt/static/js/main.4055595a.chunk.js.map",
+    "main.js": "/wilsonrdapt/static/js/main.43a9eaa5.chunk.js",
+    "main.js.map": "/wilsonrdapt/static/js/main.43a9eaa5.chunk.js.map",
     "runtime-main.js": "/wilsonrdapt/static/js/runtime-main.d3c1f2ac.js",
     "runtime-main.js.map": "/wilsonrdapt/static/js/runtime-main.d3c1f2ac.js.map",
     "static/js/2.9d9fdab7.chunk.js": "/wilsonrdapt/static/js/2.9d9fdab7.chunk.js",
@@ -11,13 +11,12 @@
     "static/js/3.24d09c76.chunk.js.map": "/wilsonrdapt/static/js/3.24d09c76.chunk.js.map",
     "index.html": "/wilsonrdapt/index.html",
     "static/css/main.a617e044.chunk.css.map": "/wilsonrdapt/static/css/main.a617e044.chunk.css.map",
-    "static/js/2.9d9fdab7.chunk.js.LICENSE.txt": "/wilsonrdapt/static/js/2.9d9fdab7.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/wilsonrdapt/static/media/logo.6ce24c58.svg"
+    "static/js/2.9d9fdab7.chunk.js.LICENSE.txt": "/wilsonrdapt/static/js/2.9d9fdab7.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.d3c1f2ac.js",
     "static/js/2.9d9fdab7.chunk.js",
     "static/css/main.a617e044.chunk.css",
-    "static/js/main.4055595a.chunk.js"
+    "static/js/main.43a9eaa5.chunk.js"
   ]
 }
